@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookLive", "FacebookLive.csproj", "{5C867BC0-3970-D288-5E52-4DCBCE94D6CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookLive.Editor", "FacebookLive.Editor.csproj", "{B0F54490-34F6-A3CD-7E97-A8C0922796C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C867BC0-3970-D288-5E52-4DCBCE94D6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C867BC0-3970-D288-5E52-4DCBCE94D6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C867BC0-3970-D288-5E52-4DCBCE94D6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C867BC0-3970-D288-5E52-4DCBCE94D6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F54490-34F6-A3CD-7E97-A8C0922796C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F54490-34F6-A3CD-7E97-A8C0922796C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F54490-34F6-A3CD-7E97-A8C0922796C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F54490-34F6-A3CD-7E97-A8C0922796C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
